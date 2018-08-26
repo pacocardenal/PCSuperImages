@@ -1,0 +1,22 @@
+{
+  "name": "PCSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of PCSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pacocardenal/PCSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pacocardenal": "paco.cardenal@talentomobile.com"
+  },
+  "source": {
+    "git": "https://github.com/pacocardenal/PCSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PCSuperImages/Classes/**/*"
+}

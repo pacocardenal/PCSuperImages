@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PCSuperImages_Example' do
+  pod 'PCSuperImages', :path => '../'
+
+  target 'PCSuperImages_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

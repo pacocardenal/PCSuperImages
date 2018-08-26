@@ -1,0 +1,6 @@
+framework module Pods_PCSuperImages_Tests {
+  umbrella header "Pods-PCSuperImages_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

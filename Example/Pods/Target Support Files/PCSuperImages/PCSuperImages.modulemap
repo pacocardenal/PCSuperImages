@@ -1,0 +1,6 @@
+framework module PCSuperImages {
+  umbrella header "PCSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

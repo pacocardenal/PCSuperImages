@@ -1,0 +1,16 @@
+PODS:
+  - PCSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - PCSuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  PCSuperImages:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PCSuperImages: 4b14b4dd2e2091c75774edd4c646802716e673ab
+
+PODFILE CHECKSUM: 6eb3c251b1be7301ea0eaed6a391852d08096e24
+
+COCOAPODS: 1.4.0
